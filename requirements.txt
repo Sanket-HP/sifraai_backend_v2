@@ -1,6 +1,21 @@
-
+# Web framework
 fastapi
-uvicorn
+uvicorn[standard]
+
+# Data processing & ML
 pandas
 scikit-learn
+
+# File uploads
 python-multipart
+
+# OpenAI API
+openai
+
+# Azure SDKs
+azure-identity
+azure-storage-blob
+azure-core
+
+# Optional: dotenv for local env vars
+python-dotenv
